@@ -1,0 +1,17 @@
+{
+  "candidate": "jhonatanisaiasmedina@outlook.com",
+  "candidate_name": "Jhonatan Isaias Medina Revolledo",
+  "models_and_tools": [
+    {
+      "tool": "ChatGPT",
+      "model": "GPT-5"
+    }
+  ],
+  "evaluated_file": "candidate_strategy.py",
+  "generated_artifacts": ["generated_artifacts/.gitkeep"],
+  "conversation_files": [
+    "ai_conversations/conversacion_inicial.md"
+  ],
+  "redactions": [],
+  "declaration": "Declaro que esta entrega es de mi autoría y que he revisado y comprendido el código presentado."
+}
