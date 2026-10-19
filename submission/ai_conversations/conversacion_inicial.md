@@ -4,7 +4,7 @@
 
 - Fecha aproximada: 16–19 de octubre de 2026.
 - Herramienta utilizada: ChatGPT.
-- Modelo: GPT-5.
+- Modelo: GPT-5.6 luna
 - Objetivo: preparar, desarrollar, probar y documentar una estrategia para el reto de mejora de entrega de tarjetas.
 - Repositorio: `BBVA-Hackaton-2026`.
 
