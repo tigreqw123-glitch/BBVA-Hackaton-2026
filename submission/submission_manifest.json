@@ -4,7 +4,7 @@
   "models_and_tools": [
     {
       "tool": "ChatGPT",
-      "model": "GPT-5"
+      "model": "GPT-5.6 luna"
     }
   ],
   "evaluated_file": "candidate_strategy.py",
